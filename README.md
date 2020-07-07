@@ -7,4 +7,4 @@
 
 #グループ
 <!DOCUTYPE html>
-リンク(自分用)<h1>リンク</h1>
+<a href="https://github.com/EngineeringDesign/webapp-group10">グループのリポジトリ</a>
