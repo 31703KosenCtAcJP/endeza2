@@ -5,6 +5,6 @@
 
 1日一回更新が目標
 
-#グループ
 <!DOCUTYPE html>
+<h2>グループ</h2>
 <a href="https://github.com/EngineeringDesign/webapp-group10">グループのリポジトリ</a>
