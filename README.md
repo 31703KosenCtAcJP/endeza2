@@ -4,7 +4,10 @@
 どうぞ貰ってくだい
 
 1日一回更新が目標
+↑できてない
 
 <!DOCUTYPE html>
 <h2>グループ</h2>
+今全然更新してないので
 <a href="https://github.com/EngineeringDesign/webapp-group10">グループのリポジトリ</a>
+のikekouブランチを見てください
